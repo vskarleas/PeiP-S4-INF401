@@ -30,6 +30,8 @@ In lab sessions, students are expected to:
 
 For more information, visit the course website: [INF401 Public Course Page](https://im2ag-moodle.univ-grenoble-alpes.fr/course/view.php?id=336).
 
+---
+
 ## Français
 
 Bienvenue dans le dépôt **INF401**. Ce dépôt inclut les solutions suggérées et le code en langage d'assemblage pour les documents de TP, disponibles dans le répertoire **TP**, ainsi que des notes importantes et des solutions pour le travail en classe (TD) dans le répertoire **TD**.
