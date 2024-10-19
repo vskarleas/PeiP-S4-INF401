@@ -68,5 +68,5 @@ Pour plus d'informations, visitez la page publique du cours : [Page publique du 
 
 **PeiP-S4-INF401** © 2024 is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/).
 
-This repository may contain content that is the property of their respective owners and is subject to other copyright and licensing terms.
+This repository may contain content that is the property of their respective owners and is subject to other copyright and licensing terms
 
